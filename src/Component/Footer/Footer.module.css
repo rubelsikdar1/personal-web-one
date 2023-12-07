@@ -1,0 +1,66 @@
+.footerBg{
+    background-color: #222222;
+    color: white;
+    padding: 40px 0;
+    
+}
+.footerFlex{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.quickManu{
+    flex: 1;
+}
+.resentPost{
+    flex: 1;
+}
+.form{
+    flex: 2;
+}
+
+.emailInput{
+    width: 75%;
+    padding: 16px;
+}
+.submitBtn{
+    width: 20%;
+    padding: 16px;
+    background-color: #E45D5D;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 5px;
+    font-family: 'Open Sans';
+}
+h3{
+    margin: 20px 0;
+    font-family: 'Open Sens';
+    font-weight: 700;
+}
+label{
+    font-weight: bold;
+    font-family: 'Open Sens';
+}
+p{
+    padding: 5px 0 ;
+    font-weight: 300;
+    font-family: 'Open Sens';
+    color: #666666;
+}
+
+li {
+    padding: 5px 0 ;
+    color: red;
+    
+}
+.a{
+    color: #666666;
+}
+.copyWrite{
+    display: flex;
+}
+.logo{
+    color: #222222;
+}

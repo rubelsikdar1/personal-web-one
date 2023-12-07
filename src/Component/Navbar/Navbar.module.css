@@ -1,0 +1,26 @@
+.mainBg{
+    background-color: #191919;
+}
+.flexRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 0;
+    color: #FFFFFF; 
+}
+.menuItem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.menuItem li a {
+    font-family: 'Open Sans';
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+}
+.NavlinkActive{
+    color: #746e6e;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.OpenSans300-n{
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+.OpenSans400-p{
+    font-family:  'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.OpenSans700-h{
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+}
+.OpenSans700-sh{
+    font-family:  'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.OpenSans300{
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.OpenSans400{
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.OpenSans700{
+    font-family:  'Open Sans', sans-serif;
+    font-weight: 700;
+}
